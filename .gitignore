@@ -1,0 +1,11 @@
+# Visual Studio 찌꺼기들 무시
+.vs/
+x64/
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.db
+*.opendb
